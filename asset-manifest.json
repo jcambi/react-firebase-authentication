@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firebase-authentication/static/css/main.44b1b850.chunk.css",
+    "main.js": "/react-firebase-authentication/static/js/main.620be219.chunk.js",
+    "main.js.map": "/react-firebase-authentication/static/js/main.620be219.chunk.js.map",
+    "runtime~main.js": "/react-firebase-authentication/static/js/runtime~main.ad14ce0f.js",
+    "runtime~main.js.map": "/react-firebase-authentication/static/js/runtime~main.ad14ce0f.js.map",
+    "static/js/2.60cc09e4.chunk.js": "/react-firebase-authentication/static/js/2.60cc09e4.chunk.js",
+    "static/js/2.60cc09e4.chunk.js.map": "/react-firebase-authentication/static/js/2.60cc09e4.chunk.js.map",
+    "index.html": "/react-firebase-authentication/index.html",
+    "precache-manifest.40c339d030dd65342c0d5d8357df0c8a.js": "/react-firebase-authentication/precache-manifest.40c339d030dd65342c0d5d8357df0c8a.js",
+    "service-worker.js": "/react-firebase-authentication/service-worker.js",
+    "static/css/main.44b1b850.chunk.css.map": "/react-firebase-authentication/static/css/main.44b1b850.chunk.css.map"
+  }
+}
